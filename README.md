@@ -1,0 +1,1 @@
+![ScreenShot](http://jakecrane.com/img/git-PS1-for-mac/example.png)
